@@ -1,0 +1,20 @@
+{
+  "visual": {
+    "name": "circleCard",
+    "displayName": "Circle Card",
+    "guid": "circleCard883A55D37BFB45D6B74BA85EDD84374A",
+    "visualClassName": "Visual",
+    "version": "1.0.0",
+    "description": "Displays a formatted measure value inside a circle",
+    "supportUrl": "https://vyshnav.tech/",
+    "gitHubUrl": ""
+  },
+  "apiVersion": "3.8.0",
+  "author": { "name": "", "email": "" },
+  "assets": { "icon": "assets/icon.png" },
+  "externalJS": null,
+  "style": "style/visual.less",
+  "capabilities": "capabilities.json",
+  "dependencies": null,
+  "stringResources": []
+}
